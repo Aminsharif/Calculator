@@ -1,0 +1,18 @@
+c:\users\amins_000\documents\visual studio 2013\Projects\1213452\1213452\bin\Debug\1213452.exe.config
+c:\users\amins_000\documents\visual studio 2013\Projects\1213452\1213452\bin\Debug\1213452.exe
+c:\users\amins_000\documents\visual studio 2013\Projects\1213452\1213452\bin\Debug\1213452.pdb
+c:\users\amins_000\documents\visual studio 2013\Projects\1213452\1213452\obj\Debug\1213452.csprojResolveAssemblyReference.cache
+c:\users\amins_000\documents\visual studio 2013\Projects\1213452\1213452\obj\Debug\_1213452.Form1.resources
+c:\users\amins_000\documents\visual studio 2013\Projects\1213452\1213452\obj\Debug\_1213452.Properties.Resources.resources
+c:\users\amins_000\documents\visual studio 2013\Projects\1213452\1213452\obj\Debug\1213452.csproj.GenerateResource.Cache
+c:\users\amins_000\documents\visual studio 2013\Projects\1213452\1213452\obj\Debug\1213452.exe
+c:\users\amins_000\documents\visual studio 2013\Projects\1213452\1213452\obj\Debug\1213452.pdb
+C:\Users\amins_000\Desktop\1213452\1213452\bin\Debug\1213452.exe.config
+C:\Users\amins_000\Desktop\1213452\1213452\obj\Debug\1213452.exe
+C:\Users\amins_000\Desktop\1213452\1213452\obj\Debug\1213452.pdb
+C:\Users\amins_000\Desktop\1213452\1213452\bin\Debug\1213452.exe
+C:\Users\amins_000\Desktop\1213452\1213452\bin\Debug\1213452.pdb
+C:\Users\amins_000\Desktop\1213452\1213452\obj\Debug\1213452.csprojResolveAssemblyReference.cache
+C:\Users\amins_000\Desktop\1213452\1213452\obj\Debug\_1213452.Form1.resources
+C:\Users\amins_000\Desktop\1213452\1213452\obj\Debug\_1213452.Properties.Resources.resources
+C:\Users\amins_000\Desktop\1213452\1213452\obj\Debug\1213452.csproj.GenerateResource.Cache
